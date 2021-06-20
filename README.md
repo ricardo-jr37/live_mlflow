@@ -1,4 +1,4 @@
-# live_mlflow
+# Live MLflow
 
 Esse repositório cnotêm os códigos utilizando na live de demonstração da utilização do MLflow.
 Palestrantes: Ricardo Junior e Rodrigo Teoria
